@@ -1,4 +1,4 @@
-import sum from './sum';
+import sum from './sum.js';
 import './image_viewer';
 
 var total = sum(10, 20);
